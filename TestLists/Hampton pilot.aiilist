@@ -1,0 +1,367 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "ab34d4e0-c788-4fae-8891-87158c5714a0",
+    "Id": "ab34d4e0-c788-4fae-8891-87158c5714a0",
+    "TestListName": "Hampton pilot",
+    "CreationDate": "2016-03-22T11:47:26",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 1,
+            "EnableScriptLogging": false,
+            "BaseUrl": "http://hampton-pilot.acceliplan.com",
+            "KillBrowserProcessOnClose": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 30000,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 200,
+        "UnexpectedDialogAction": 1,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a51e96f7-ac25-4a58-bc32-87cef4559707",
+          "Path": "Hampton\\Students section\\5901Filters.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "e3563dd2-f544-4289-ab3d-b07db4c24309",
+          "Path": "Hampton\\Students section\\59014CheckSchoolNameFilter.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "8eeee7a2-04a2-492d-8e5a-07882dcb5601",
+          "Path": "Hampton\\Students section\\59013CheckLastNameFilter.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "3914041d-a302-4d30-b479-e662954bb9df",
+          "Path": "Hampton\\Students section\\59012CheckIDFilter.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "af9995c2-2e22-4f1d-8bd2-bb791eb5955d",
+          "Path": "Hampton\\Students section\\59011CheckFirstNameFilter.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b0193ab2-a785-4662-85ab-5408fe178e81",
+          "Path": "Hampton\\Section ID (1661) - Students Page\\5907_Events.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "77b9311d-5d8f-41a2-bb9d-9b66eefb4469",
+          "Path": "Hampton\\Section ID (1661) - Students Page\\5906_Demografics.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ec171989-fbe6-41d4-aa3d-0a1a4d95f7a5",
+          "Path": "Hampton\\Section ID (1661) - Students Page\\5905_Summary_Fields.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "71bddf46-f8bf-4a12-b733-de443f0de328",
+          "Path": "Hampton\\Section ID (1661) - Students Page\\5904_Common_UI.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "92e5cdc3-f26e-4550-9b3b-77be92ca338a",
+          "Path": "Hampton\\Reports\\Dashboard\\DashboardView.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "c9447734-6cf6-4aca-8892-ec2e4b1ae9a3",
+          "Path": "Hampton\\Home\\5851.2 Creating link with student as Admin.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a551a190-1538-4d0e-84e4-e41ac6e6897e",
+          "Path": "Hampton\\Home\\5851 Check CaseLoad status.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "2300f854-7b54-41c9-b2e8-8c0d27e39d03",
+          "Path": "Hampton\\Home\\5850 Watchlist manage.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "5aab8c2c-6ef1-483b-b4fe-d3b6b90064c0",
+          "Path": "Hampton\\Home\\5849 Check Main Page Vidgets.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "e78486b6-c8db-4da1-9d71-000975adad6f",
+          "Path": "Hampton\\Events\\Initial_IEP\\6079_1_CRUD_Assessment.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "7049c9b2-f6df-4878-848d-068d569a8553",
+          "Path": "Hampton\\Events\\Initial_IEP\\5839Fill_Goal_section.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "cf11d5a9-a968-4197-a951-d4ed3ca26a9e",
+          "Path": "Hampton\\Events\\Initial_IEP\\5838v2setParentPermissionTo'Yes'.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "57101bce-6669-4874-ae28-4efa7ade022b",
+          "Path": "Hampton\\Events\\Initial_IEP\\5838v2setParentPermissionTo'Yes' (1).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f5bd083f-f346-4f04-904c-84b699226036",
+          "Path": "Hampton\\Events\\Initial_IEP\\5838set_parent_permission_to'NO'.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "29a04310-7a1e-4ba8-85b3-2878888d3108",
+          "Path": "Hampton\\Events\\Initial_IEP\\5837Update_Event.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "7461bb5a-6122-4e52-91ab-a90d56e9db2e",
+          "Path": "Hampton\\Events\\Initial_IEP\\5836Create_event.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "2e8f02db-8b52-4f20-8e45-9c1c0b88e053",
+          "Path": "Hampton\\Events\\Initial_IEP\\58361Create_eventNegativeNoDate.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "4df1c21a-8ec7-441b-9810-8e6fb92a16ae",
+          "Path": "Hampton\\CommonUI\\5857PageViewAfterLogin.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "89dc16c0-0fcd-4a6f-a815-e7f54cca4f36",
+          "Path": "Hampton\\Caseload\\5864 Add and remove student by Admin.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "44e774c0-0cb6-484d-8df2-0025d2c2d1e0",
+          "Path": "Hampton\\Caseload\\5861 MyCaseloadTable.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "e7db46ed-96ba-4f1d-af1a-05c588cefb27",
+          "Path": "Hampton\\Caseload\\58604 TestFilterByLastName.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9e5704b1-e281-4c2c-b4e1-35f93d64d357",
+          "Path": "Hampton\\Caseload\\58603 TestFilterByFirstName.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b93aeadf-5893-4116-be50-f2c20b3f2da6",
+          "Path": "Hampton\\Caseload\\5860.2 TestFilterById.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "5fe5b5b2-8316-45aa-844b-72a8defe5f9d",
+          "Path": "Hampton\\Caseload\\5860 FilterFields.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "57ca03ed-cf66-4e11-94ca-f9aa5486054b",
+          "Path": "Hampton\\Caseload\\5859 MyCaseloadView.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b6de33dc-a790-4019-9064-388cf721f93b",
+          "Path": "Hampton\\Administration - Caseload\\GoToCaseLoadManager.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "dcaafcb6-1ca4-43cf-a84c-46e99e23ffaf",
+          "Path": "Hampton\\Administration - Caseload\\5881_Common.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9d89c0c3-fa53-4ff6-bf49-6bcd7449a43f",
+          "Path": "Hampton\\Administration - Caseload\\5880_CheckFilterLabels.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "6e018776-cf60-44d0-843f-0e3fd2ccdb03",
+          "Path": "Hampton\\Administration - Caseload\\58802_CheckFilterByName.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ec32f06b-ab29-49b0-8d0a-742e1559ce60",
+          "Path": "Hampton\\Administration - Caseload\\58801_CheckFilterById.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "38d9580c-70fb-4f2e-97b0-ba758a186279",
+          "Path": "Hampton\\Administration - Caseload\\5878_AddStudent.tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [
+          "CustomProperty1",
+          "CustomProperty2"
+        ],
+        "Comparisons": [
+          "ArtOfTest.WebAii.Design.Execution.FilterComparison||Equals",
+          "ArtOfTest.WebAii.Design.Execution.FilterComparison||Equals"
+        ],
+        "Values": [
+          "ready",
+          "hampton"
+        ]
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "da260b84-0f05-48db-870e-0693f7d5bba9"
+  }
+}
